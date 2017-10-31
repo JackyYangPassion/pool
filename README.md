@@ -60,3 +60,6 @@ current := p.Len()
 ## License
 
 The MIT License (MIT) - see LICENSE for more details
+
+参考链接：
+https://segmentfault.com/a/1190000007546327#articleHeader3
